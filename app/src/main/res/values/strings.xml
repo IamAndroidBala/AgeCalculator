@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+
+    <string name="first_name">Enter first name</string>
+    <string name="last_name">Enter last name</string>
+    <string name="date_of_birth"> Select DOB</string>
+    <string name="next">Next</string>
+
+</resources>
